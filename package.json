@@ -1,7 +1,7 @@
 {
-  "name": "Firebase-Cloud-Firestore-SDK",
+  "name": "@stellasphere/firestore-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simplified get-set-delete-list API wrapper for Google Firebase Cloud Firestore.",
   "main": "index.js",
   "dependencies": {
     "algoliasearch": "^4.11.0",
@@ -23,6 +23,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "stellasphere",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellasphere/firestore-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stellasphere/firestore-api/issues"
+  },
+  "homepage": "https://github.com/stellasphere/firestore-api#readme"
 }
